@@ -1,0 +1,6 @@
+id=asi_system
+name=ASI System Module
+version=v0.1.0
+versionCode=1
+author=Linehu
+description=Android System of iOS — 提权模块：将 ASI 安装为系统特权应用，解锁系统级能力（通知监听免授权、使用统计、真实最近任务等）。需要已 root 的设备。
